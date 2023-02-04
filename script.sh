@@ -23,3 +23,4 @@ git commit -m "week 2 lab - bash & git : generate script.sh bash script to push"
 
 git remote add origin https://github.com/EmmaDudau/devops-lab-2-task.git
 git push -u origin main
+
